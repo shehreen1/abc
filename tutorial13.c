@@ -12,7 +12,7 @@
 // }
 int main()
 {
-     int a=24;
+     int a=34;
      int b=34;
      int ptr2=NULL;
      int *ptra=&a;
